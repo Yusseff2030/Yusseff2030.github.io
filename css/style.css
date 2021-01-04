@@ -1,6 +1,5 @@
 body{
 	background-color:#f4f4f4; 
 	color: #555555;
-
-	font-family: sans-serif;
+	font: normal 16px Arial, Helvetica, sans-serif;
 }
