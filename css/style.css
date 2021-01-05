@@ -12,6 +12,14 @@ header{
 	text-transform:uppercase;
 }
 
+th {
+	padding-left: 20px;
+}
+
+td {
+	padding-left: 20px;
+}
+
 a{
 	text-decoration: none;
 	color:#000;
