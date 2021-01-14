@@ -80,6 +80,23 @@ a:active{
 	overflow:hidden;
 }
 
+#blog-container h3{
+	font-size: x-large;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+#blog-container small{
+	font-family: Arial, Helvetica, sans-serif;
+	color: gray;
+}
+
+#news-container h3{
+	font-size: x-large;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
 #showcase{
 	background-image:url(../images/showcase.jpg);
 	background-position:center right;
@@ -112,6 +129,10 @@ a:active{
 }
 
 #main-footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
 	background: #333;
 	color:#fff;
 	text-align: center;
